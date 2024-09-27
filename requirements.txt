@@ -1,3 +1,4 @@
+gunicorn
 certifi
 chardet
 click
@@ -9,6 +10,7 @@ Flask-Gravatar
 Flask-Login
 Flask-SQLAlchemy
 Flask-WTF
+Flask-Avatars
 idna
 itsdangerous
 Jinja2
